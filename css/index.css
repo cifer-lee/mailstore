@@ -1,0 +1,63 @@
+a {
+	text-decoration: none;
+}
+
+#maincontent {
+	margin: 150px auto;
+	width: 635px;
+}
+
+#query-window {
+	margin: 100px auto;
+	width: 335px;
+}
+
+.item {
+	margin: 5px 0;
+}
+
+.item label {
+	display: inline-block;
+	padding: 5px 15px;
+	width: 50px;
+	font-size: 14px;
+}
+
+.item .text-input {
+	width: 200px;	
+	padding: 5px;
+	height: 18px;
+	font-size: 14px;
+	border: 1px solid #c9c9c9;
+}
+
+.item select {
+	width: 212px;	
+	padding: 5px;
+	border: 1px solid #c9c9c9;
+	color: #555555;
+}
+
+.item .btn-input {
+	cursor: pointer;
+	border: 1px solid #acacac;
+	background-color: #acacac;
+	padding: 6px 26px;
+	font-weight: bold;
+	font-size: 14px;
+}
+
+.item .btn-input:hover {
+	background-color: #cccccc;
+	border: 1px solid #cccccc;
+}
+
+#footer {
+	width: 525px;
+	margin: 0 auto;
+}
+
+.copyright{
+	font-size: 13px;
+	color: #999999;
+}

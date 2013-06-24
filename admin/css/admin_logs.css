@@ -1,0 +1,83 @@
+#admin-logs {
+	width: 760px;
+	margin: 0 auto;
+}
+
+#admin-logs #filter {
+	border-bottom: 1px solid #9c9c5c;
+	padding: 6px 0;
+}
+
+#admin-logs #filter label {
+	display: inline-block;
+	padding: 5px 15px;
+	width: 60px;
+	font-size: 14px;
+	text-align: center;
+}
+
+#admin-logs #filter .text-input {
+	width: 110px;	
+	padding: 5px;
+	height: 18px;
+	font-size: 14px;
+	border: 1px solid #c9c9c9;
+}
+
+#admin-logs #filter select {
+	width: 112px;	
+	padding: 5px;
+	border: 1px solid #c9c9c9;
+	color: #555555;
+}
+
+#admin-logs .btn-input {
+	cursor: pointer;
+	border: 1px solid #acacac;
+	background-color: #acacac;
+	padding: 6px 26px;
+	font-weight: bold;
+	font-size: 14px;
+}
+
+#admin-logs .btn-input:hover {
+	background-color: #5ccc5c;
+	border: 1px solid #5ccc5c;
+}
+
+#admin-logs .item-header {
+	padding: 16px 0;
+	font-size: 14px;
+	border-bottom: 1px solid #cccccc;
+}
+
+#admin-logs .item-header span {
+	display: inline-block;
+	text-align: center;
+}
+
+#admin-logs .item {
+	padding: 5px 0;
+	border-bottom: 1px solid #c9c9c9;
+}
+
+#admin-logs .item span {
+	display: inline-block;
+	text-align: center;
+}
+
+#admin-logs .col-adminid {
+	width: 100px;
+}
+
+#admin-logs .col-mailid {
+	width: 120px;
+}
+
+#admin-logs .col-operation {
+	width: 180px;
+}
+
+#admin-logs .col-rdate {
+	width: 180px;
+}

@@ -1,0 +1,79 @@
+a {
+	text-decoration: none;
+	padding: 6px 26px;
+	background-color: #c5a699;
+	font-size: 14px;
+}
+
+#record-window {
+	margin: 100px auto;
+	width: 825px;
+}
+
+.item-header {
+	margin: 8px 0;
+	background-color: #5c9acc;
+}
+
+.item-header .col-title {
+	display: inline-block;
+	padding: 5px 10px;
+	font-size: 14px;
+	text-align: center;
+}
+
+.item-header .separator {
+	color: #888888;
+}
+
+.item {
+	background-color: #aaaaaa;
+}
+
+.item:hover {
+	background-color: #cccacc;
+}
+
+.item .col-title {
+	display: inline-block;
+	padding: 5px 10px;
+	font-size: 14px;
+	text-align: center;
+}
+
+.item .separator {
+	color: #999999;
+}
+
+.col-mailid {
+	width: 100px;
+}
+
+.col-mailfrom {
+	width: 70px;
+}
+
+.col-mailto {
+	width: 70px;
+}
+
+.col-major {
+	width: 100px;
+}
+
+.col-type {
+	width: 70px;
+}
+
+.col-maildate {
+	width: 100px;
+}
+
+.col-taken {
+	width: 70px;
+}
+
+#footer {
+	width: 120px;
+	margin: 0 auto;
+}

@@ -1,0 +1,78 @@
+#admin-status {
+	width: 760px;
+	margin: 0 auto;
+}
+
+#admin-status #filter {
+	border-bottom: 1px solid #9c9c5c;
+	padding: 6px 0;
+}
+
+#admin-status #filter label {
+	display: inline-block;
+	padding: 5px 15px;
+	width: 30px;
+	font-size: 14px;
+}
+
+#admin-status #filter .text-input {
+	width: 110px;	
+	padding: 5px;
+	height: 18px;
+	font-size: 14px;
+	border: 1px solid #c9c9c9;
+}
+
+#admin-status #filter select {
+	width: 112px;	
+	padding: 5px;
+	border: 1px solid #c9c9c9;
+	color: #555555;
+}
+
+#admin-status .btn-input {
+	cursor: pointer;
+	border: 1px solid #acacac;
+	background-color: #acacac;
+	padding: 6px 26px;
+	font-weight: bold;
+	font-size: 14px;
+}
+
+#admin-status .btn-input:hover {
+	background-color: #5ccc5c;
+	border: 1px solid #5ccc5c;
+}
+
+#admin-status .item-header {
+	padding: 16px 0;
+	font-size: 14px;
+	border-bottom: 1px solid #cccccc;
+}
+
+#admin-status .item-header span {
+	display: inline-block;
+	text-align: center;
+}
+
+#admin-status .item {
+	padding: 5px 0;
+	border-bottom: 1px solid #c9c9c9;
+}
+
+#admin-status .item span {
+	display: inline-block;
+	text-align: center;
+}
+
+#admin-status .col-adminid {
+	width: 80px;
+}
+
+#admin-status .col-adminpriv {
+	width: 120px;
+}
+
+#admin-status .col-nosuchadmin {
+	width: 120px;
+}

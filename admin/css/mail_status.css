@@ -1,0 +1,98 @@
+#mail-status {
+	width: 760px;
+	margin: 0 auto;
+}
+
+#mail-status #filter {
+	border-bottom: 1px solid #9c9c5c;
+	padding: 6px 0;
+}
+
+#mail-status #filter label {
+	display: inline-block;
+	padding: 5px 15px;
+	width: 30px;
+	font-size: 14px;
+}
+
+#mail-status #filter .text-input {
+	width: 110px;	
+	padding: 5px;
+	height: 18px;
+	font-size: 14px;
+	border: 1px solid #c9c9c9;
+}
+
+#mail-status #filter select {
+	width: 112px;	
+	padding: 5px;
+	border: 1px solid #c9c9c9;
+	color: #555555;
+}
+
+#mail-status .btn-input {
+	cursor: pointer;
+	border: 1px solid #acacac;
+	background-color: #acacac;
+	padding: 6px 26px;
+	font-weight: bold;
+	font-size: 14px;
+}
+
+#mail-status .btn-input:hover {
+	background-color: #5ccc5c;
+	border: 1px solid #5ccc5c;
+}
+
+#mail-status .item-header {
+	padding: 16px 0;
+	font-size: 14px;
+	border-bottom: 1px solid #cccccc;
+}
+
+#mail-status .item-header span {
+	display: inline-block;
+	text-align: center;
+}
+
+#mail-status .item {
+	padding: 5px 0;
+	border-bottom: 1px solid #c9c9c9;
+}
+
+#mail-status .item span {
+	display: inline-block;
+	text-align: center;
+}
+
+#mail-status .col-mailid {
+	width: 100px;
+}
+
+#mail-status .col-mailfrom {
+	width: 80px;
+}
+
+#mail-status .col-mailto {
+	width: 80px;
+}
+
+#mail-status .col-major {
+	width: 100px;
+}
+
+#mail-status .col-type {
+	width: 80px;
+}
+
+#mail-status .col-maildate {
+	width: 80px;
+}
+
+#mail-status .col-taken {
+	width: 130px;
+}
+
+#mail-status .col-nosuchmail {
+	width: 70px;
+}
