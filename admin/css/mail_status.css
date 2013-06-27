@@ -96,3 +96,8 @@
 #mail-status .col-nosuchmail {
 	width: 70px;
 }
+
+#pager {
+	width: 180px;
+	margin: 15px auto;
+}

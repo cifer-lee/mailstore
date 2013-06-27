@@ -25,6 +25,20 @@
 	color: #555555;
 }
 
+#mail-input .btn-input {
+	cursor: pointer;
+	border: 1px solid #acacac;
+	background-color: #acacac;
+	padding: 6px 26px;
+	font-weight: bold;
+	font-size: 14px;
+}
+
+#mail-input .btn-input:hover {
+	background-color: #5ccc5c;
+	border: 1px solid #5ccc5c;
+}
+
 #mail-input .comment {
 	font-size: 13px;
 	color: #5c5c5c;
